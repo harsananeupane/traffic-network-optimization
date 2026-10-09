@@ -12,6 +12,10 @@ The road network is modeled as a weighted graph where:
 
 The simulation generates random trips across the network and uses the A* algorithm to determine shortest routes.
 
+## Network Example
+
+![Traffic Network Graph](network_graph.png)
+
 ## Technologies
 
 - Python
