@@ -58,6 +58,16 @@ Increased network connectivity and analyzed how the value of new roads changed.
 
 As network connectivity increased, the benefit of adding new roads decreased because the existing network already provided more direct routes.
 
+## Results
+
+The simulation compared multiple road-network scenarios and ranked candidate roads based on projected travel-distance savings and traffic volume.
+
+- With a lower shrinkage factor, new direct roads produced larger travel savings.
+- Increasing the shrinkage factor changed the ranking of recommended roads because new roads became less beneficial.
+- Increasing overall network connectivity reduced the value of adding new roads because the existing network already provided shorter routes.
+
+The project demonstrated how graph structure and road-length assumptions can affect infrastructure recommendations.
+
 ## Skills Demonstrated
 
 - Graph modeling
